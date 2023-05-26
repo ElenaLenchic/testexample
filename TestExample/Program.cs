@@ -36,7 +36,7 @@ class Program
     
     static void Main()
     {
-        Console.InputEncoding = Console.OutputEncoding = Encoding.UTF8;
+        // Console.InputEncoding = Console.OutputEncoding = Encoding.UTF8;
         /*
          * Задание: найти все стоки, в которых содержатся буквы "й", "з" и "ь" одновременно (буквы могут быть как заглавные, так и строчные)
          * Причем эти строки не должны начинаться с букв "П", "Т", "Н"
