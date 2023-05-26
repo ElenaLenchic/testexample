@@ -2,7 +2,7 @@
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
-/TestExample/.vs/TestExample
-/TestExample/TestExample/obj/*
-/TestExample/TestExample/bin/*
+/.vs/*
+/TestExample/.vs/*
+/TestExample/obj/*
+/TestExample/bin/*
