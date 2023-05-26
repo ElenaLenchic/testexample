@@ -4,4 +4,5 @@
 
 /.vs
 /TestExample/.vs/TestExample
-/TestExample/TestExample/obj
+/TestExample/TestExample/obj/*
+/TestExample/TestExample/bin/*
